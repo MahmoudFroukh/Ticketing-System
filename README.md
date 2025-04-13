@@ -7,8 +7,10 @@ Set up and simulate a real-world IT support environment using a ticketing system
 
 ## Tools Used
 
-- Spiceworks for the ticketing software
-
+- Spiceworks for the ticketing software.
+- Used the notes section in Spriceworks for documentation and reporting purposes.
+- Windows snipping tool to capture ticket details for documentation.
+- <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Knowledge base</a> for creating internal articles to explain how issues were resolved.
 
 ## Steps
 
