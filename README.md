@@ -5,6 +5,12 @@ Set up and simulate a real-world IT support environment using a ticketing system
 
 ## Skills Learned
 
+- Help Desk ticketing system (Spiceworks)
+- Troubleshooting and issue resolution.
+- Documentation and knowledge base creation and utilization.
+- GitHub (for extra documentation).
+- Problem Solving.
+
 ## Tools Used
 
 - Spiceworks for the ticketing software.
