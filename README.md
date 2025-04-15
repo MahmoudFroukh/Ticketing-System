@@ -33,6 +33,7 @@ Set up and simulate a real-world IT support environment using a ticketing system
 ![Screenshot 2025-04-13 182816](https://github.com/user-attachments/assets/072fb29a-d230-4165-bd50-d8f62f7c9c91)
 ![Screenshot 2025-04-14 000736](https://github.com/user-attachments/assets/8393eb1c-70d8-4916-819f-6030c02260b9)
 ![Screenshot 2025-04-14 001835](https://github.com/user-attachments/assets/b15e882f-f883-4ef6-a0fe-039e436721a2)
+![Screenshot 2025-04-14 224749](https://github.com/user-attachments/assets/0cdbff60-9780-421a-9093-1e2d25f38043)
 
 **Ref 5 - Close a ticket once the issue is resolved**
 ![Screenshot 2025-04-14 000946](https://github.com/user-attachments/assets/d1d57a69-6259-4fc8-9f34-2f445de8b67a)
